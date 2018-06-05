@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaChicos", "PruebaChicos\PruebaChicos.csproj", "{4FDD62BB-C1FE-47F1-9389-D26B1BE6170F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaChicos", "PruebaChicos\PruebaChicos.csproj", "{4FDD62BB-C1FE-47F1-9389-D26B1BE6170F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaAngelica", "PruebaAngelica\PruebaAngelica.csproj", "{FEEF7812-1413-40ED-999F-8364F1DA332D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4FDD62BB-C1FE-47F1-9389-D26B1BE6170F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FDD62BB-C1FE-47F1-9389-D26B1BE6170F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FDD62BB-C1FE-47F1-9389-D26B1BE6170F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEF7812-1413-40ED-999F-8364F1DA332D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEF7812-1413-40ED-999F-8364F1DA332D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEF7812-1413-40ED-999F-8364F1DA332D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEF7812-1413-40ED-999F-8364F1DA332D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
